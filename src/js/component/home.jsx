@@ -14,7 +14,7 @@ const Home = () => {
 				<div className="col-md-3 m-4">
 					<Card
 						img="https://picsum.photos/200"
-						title="A title"
+						title="Card 1"
 						text="Some text"
 						button="Click me"
 					/>
@@ -22,7 +22,7 @@ const Home = () => {
 				<div className="col-md-3 m-4">
 					<Card
 						img="https://picsum.photos/200"
-						title="Another title"
+						title="Card 2"
 						text="Some more text"
 						button="Click me 2"
 					/>
@@ -30,17 +30,17 @@ const Home = () => {
 				<div className="col-md-3 m-4">
 					<Card
 						img="https://picsum.photos/200"
-						title="Lalalal"
+						title="card 3"
 						text="Lorem ipsum"
-						button="Im a button"
+						button="click me 3"
 					/>
 				</div>
 				<div className="col-md-3 m-4">
 					<Card
 						img="https://picsum.photos/200"
 						title="Card title"
-						text="Some textttttttttt"
-						button="Now click"
+						text="Some text"
+						button="click me 4"
 					/>
 				</div>
 			</div>
